@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Mats, a software engineer with a passion for building things and solving problems.
 - 🔭 I’m currently working in a health startup, building EMR/EHR apps for doctors.
-- 🌱 I’m currently learning the ropes on doing business.
 - 😄 My hobbies include reading, writing, and watching the latest anime.
 
 ## Connect with me
@@ -10,6 +9,10 @@
 <br>
 
 ## Languages and Technologies
+<img align="left" alt="Swift" width="26px" 
+  src="https://mllmu3qmmprr.i.optimole.com/w:auto/h:auto/q:mauto/f:avif/https://www.japancodingclub.com/en/wp-content/uploads/2022/08/swift.png" 
+/>
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -26,11 +29,7 @@
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" 
 />
 
-<img align="left" alt="Swift" width="26px" 
-  src="https://mllmu3qmmprr.i.optimole.com/w:auto/h:auto/q:mauto/f:avif/https://www.japancodingclub.com/en/wp-content/uploads/2022/08/swift.png" 
-/>
-
-<img align="left" alt="Swift" width="26px" 
+<img align="left" alt="Android" width="26px" 
   src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png"
 />
 
