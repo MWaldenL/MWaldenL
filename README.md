@@ -25,7 +25,7 @@
 
 <img align="left" alt="React" width="26px" 
   src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-"/>
+/>
 
 <img align="left" alt="Android" width="26px" 
   src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png"
