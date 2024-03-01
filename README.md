@@ -1,6 +1,7 @@
-![image](https://github.com/MWaldenL/MWaldenL/assets/35794323/e72809af-41fc-4257-852f-c7f8c6d1f238)### Hi there 👋 I'm Mats, a software engineer with a passion for building things and solving problems.
+### Hi there 👋 I'm Mats, a software engineer with a passion for building things and solving problems.
 - 🔭 I’m currently working in a health startup, building EMR/EHR apps for doctors.
 - 😄 My hobbies include reading, writing, and watching the latest anime.
+- I like building apps and trying out new technologies
 
 ## Connect with me
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
