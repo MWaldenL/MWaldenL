@@ -1,21 +1,15 @@
-### Hi there 👋 I'm Mats, a software engineer with a passion for building things and solving problems.
+![image](https://github.com/MWaldenL/MWaldenL/assets/35794323/e72809af-41fc-4257-852f-c7f8c6d1f238)### Hi there 👋 I'm Mats, a software engineer with a passion for building things and solving problems.
 - 🔭 I’m currently working in a health startup, building EMR/EHR apps for doctors.
 - 😄 My hobbies include reading, writing, and watching the latest anime.
 
 ## Connect with me
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br>
 
 ## Languages and Technologies
 <img align="left" alt="Swift" width="26px" 
   src="https://mllmu3qmmprr.i.optimole.com/w:auto/h:auto/q:mauto/f:avif/https://www.japancodingclub.com/en/wp-content/uploads/2022/08/swift.png" 
 />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -28,6 +22,10 @@
 <img align="left" alt="Git" width="26px" 
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" 
 />
+
+<img align="left" alt="React" width="26px" 
+  src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+"/>
 
 <img align="left" alt="Android" width="26px" 
   src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png"
@@ -47,6 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[instagram]: https://www.instagram.com/mats_chen/
 [linkedin]: https://www.linkedin.com/in/matthew-walden-lua-10a7771ab/
