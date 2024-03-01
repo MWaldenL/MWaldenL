@@ -12,7 +12,11 @@
   src="https://mllmu3qmmprr.i.optimole.com/w:auto/h:auto/q:mauto/f:avif/https://www.japancodingclub.com/en/wp-content/uploads/2022/08/swift.png" 
 />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TS" width="26px" 
+  src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" 
+/>
+
+<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
@@ -32,18 +36,4 @@
   src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png"
 />
 
-<!--
-**MWaldenL/MWaldenL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [linkedin]: https://www.linkedin.com/in/matthew-walden-lua-10a7771ab/
